@@ -1,2 +1,0 @@
-# amprod
-Amazon product data

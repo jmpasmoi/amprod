@@ -9,6 +9,7 @@ License: GPL-2
 URL: https://github.com/jmcimula/amprod
 Imports:
     plyr,
+	rjson,
     sqldf,
     gsubfn,
     proto,

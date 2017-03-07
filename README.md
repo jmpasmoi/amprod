@@ -56,7 +56,6 @@ head(data[,c(1,2,4,5,7,8,9)])
 ```
 
 ``` r
-> head(data[,c(1,2,4,5,7,8,9)])
       reviewerID       asin helpful1 helpful2 overall                                            summary unixReviewTime
 1 A11N155CW1UV02 B000H00VBQ        0        0       2                         A little bit boring for me   1399075200
 2 A3BC8O2KCL29V2 B000H00VBQ        0        0       5                              Excellent Grown Up TV   1346630400
@@ -91,6 +90,7 @@ str(amprodlist)
 ##  $ 15: chr "Apps for Android"
 ##  $ 16: chr "Office Products"
 ##  $ 17: chr "Pet Supplies"
+##  $ 18: chr "Automotive"
 ##  $ 18: chr "Automotive"
 ##  $ 19: chr "Grocery and Gourmet Food"
 ##  $ 20: chr "Patio, Lawn and Garden"
